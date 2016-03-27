@@ -3,6 +3,8 @@ Emacs configuration
 
 This set up is tailored to 25.1 && 24.(5) and has been largely informed by the following sources: _HT_
 
+I keep any `'init-_this_.el` files in a `.emacs.d/elisp` directory and externals in `.emacs.d/vendor`.   
+
 For starters, some handy reference:
 
 [GNU Emacs Lisp Ref Manual](https://www.gnu.org/software/emacs/manual/)  
@@ -22,6 +24,8 @@ Also helpful:
 ### howardabrams | [ha/dots]([https://github.com/howardabrams/dot-files)  
 
 Unless otherwise noted, most of my config is inspired by / stolen from [Howard Abrams](http://howardism.org/).  
+
+I've also riffed off of [ha/dc-survival-kit](https://github.com/howardabrams/dc-survival-kit).  
 
 - [Magit Intro & Demo 10 29 15](https://www.youtube.com/watch?v=vQO7F2Q9DwA)  
 - [Literate DevOps 08 30 15 (28:35m)](https://www.youtube.com/watch?v=dljNabciEGg)  
