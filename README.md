@@ -15,7 +15,7 @@ For starters, some handy reference:
 - [Init File](http://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html#Init-File)  
 - [Default Config](https://www.gnu.org/software/emacs/manual/html_node/eintr/Default-Configuration.html#Default-Configuration)  
 
-Also helpful: 
+Also helpful:
 
 [Emacs from Git](https://www.emacswiki.org/emacs/EmacsFromGit)  
 
@@ -42,10 +42,7 @@ _Thanks!_
 
 Rick Dillon's got a great weblog: [KillRing](https://killring.org/hack-emacs/).  
 
-Also appreciated a solid [Hack Emacs tutorial series](https://www.youtube.com/user/rpdillon)  
-
-- [Hack Emacs notes](https://github.com/rpdillon/hack-emacs-notes)
-- [rpdillon/screencast.el](https://github.com/rpdillon/screencast)
+Also appreciated a solid [Hack Emacs tutorial series](https://www.youtube.com/user/rpdillon) & [notes](https://github.com/rpdillon/hack-emacs-notes).  
 
 ## Extending Emacs
 
@@ -57,3 +54,25 @@ A few packages to check out, soon:
 - helm-bibtex
 - zotero & zoxtxt
 - gopar
+
+
+## Vendor  
+
+Web development
+
+- [skewer-mode](https://github.com/skeeto/skewer-mode)  
+- [emmet-mode](https://github.com/smihica/emmet-mode)  
+- [wrap-region.el](https://github.com/rejeep/wrap-region.el)  
+- [expand-region.el](https://github.com/magnars/expand-region.el)  
+
+Clojure development
+
+- [clojure-mode](https://github.com/clojure-emacs/clojure-mode)  
+- [cider](https://github.com/clojure-emacs/cider)  
+- [smartparens](https://github.com/Fuco1/smartparens)  
+- [clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el)  
+- [clojure-snippets](http://github.com/swannodette/clojure-snippets)  
+
+Pair-programming
+
+- [screencast.el](https://github.com/rpdillon/screencast)  
